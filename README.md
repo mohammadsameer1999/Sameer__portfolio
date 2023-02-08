@@ -1,5 +1,6 @@
 # Student Portfolio
-Hey Welcome to my Portfolio it's coming up to tomorrow when i learn html and css
+Hey Welcome to my Portfolio.
+ it's coming up to tomorrow when i learn html and css
 With Tanay Partap live on Youtube
 
 for i, know:
